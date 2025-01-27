@@ -4,7 +4,6 @@ import br.com.eddificar.simulations.domain.entities.user.User;
 import jakarta.persistence.*;
 import lombok.Data;
 
-import java.lang.reflect.Array;
 import java.util.List;
 
 @Entity

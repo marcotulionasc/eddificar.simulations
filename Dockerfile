@@ -32,4 +32,4 @@ CMD java -jar \
     -Dspring.datasource.url=${DB_URL} \
     -Dspring.datasource.username=${DB_USER} \
     -Dspring.datasource.password=${DB_PASSWORD} \
-    ticketeria-${JAR_VERSION}.jar
+    simulations-${JAR_VERSION}.jar
